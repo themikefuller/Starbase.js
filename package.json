@@ -1,0 +1,31 @@
+{
+  "name": "starbasejs",
+  "version": "0.0.1",
+  "description": "Starbase.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Starbase",
+    "Starbase.js",
+    "starbase.js",
+    "starbase.min.js",
+    "starbasejs",
+    "Starbase",
+    "Alpha"
+  ],
+  "author": "Mike Fuller",
+  "license": "MIT",
+  "dependencies": {
+    "@starbase/starbase": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themikefuller/starbasejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themikefuller/starbasejs/issues"
+  },
+  "homepage": "https://github.com/themikefuller/starbasejs#readme"
+}
